@@ -1,0 +1,4 @@
+I created a very small database setup using an Entity class "UserEntity". 
+Mockito was used to mock parts of the database facade away. 
+I created a test for FindUser(..) and FindAllUsers(). 
+I figured that in order to use the new technology, it wasn't necessary to use an old project. 
